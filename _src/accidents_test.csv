@@ -1,0 +1,2 @@
+"Date","StateOfOccurrence","Location","Model","Registration","Operator","StateOfOperator","StateOfRegistry","FlightPhase","Class","Fatalities","Over2250","Over5700","ScheduledCommercial","InjuryLevel","TypeDesignator","Helicopter","Airplane","Engines","EngineType","Official","OccCats","Risk","Year"
+"2008-01-02T00:00:00.000Z",PHL,Masbate Airport (MBT),NAMC YS11 A,RP-C3592,Philippines Asian Spirit,PHL,PHL,Landing,Accident,0,TRUE,TRUE,TRUE,None,YS11,	TRUE,2,Turboprop,TRUE,["RE"],RS,2008
